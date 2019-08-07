@@ -3,7 +3,8 @@ Repository for viewing algorithm lectures and organizing them with test codes.<b
 Test codes are organized using <b>'Jest'</b>.<br><br>
 <a href="https://www.inflearn.com/course/알고리즘-강좌/" target="_blank">https://www.inflearn.com/course/알고리즘-강좌/</a><br><br>
 
-<b>From</b> 2019.08.04<br><b>To</b> Undetermined Date<br>
+<b>From</b> 2019.08.04<br><b>To</b> Undetermined Date<br><br>
+<b>* 예제는 제가 변형하여 적습니다. *</b>
 
 ## 목차
 ### 순환 (Recursion)
