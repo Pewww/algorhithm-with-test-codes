@@ -9,7 +9,10 @@ Test codes are organized using <b>'Jest'</b>.<br><br>
 ## 목차
 ### 순환 (Recursion)
 <ol>
-  <li>순환의 개념과 기본 예제 1</li>
+  <li>
+    순환의 개념과 기본 예제 1
+    <span style="padding-left: 16px;"><b>Finished - 2019.08.08</b></span>
+  </li>
   <li>순환의 개념과 기본 예제 2</li>
   <li>순환의 개념과 기본 예제 3</li>
   <li>Recursion의 응용 - 미로찾기 1</li>
